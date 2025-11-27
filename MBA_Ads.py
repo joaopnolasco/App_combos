@@ -19,7 +19,7 @@ table td, table th { font-size: 13px; }
 """, unsafe_allow_html=True)
 
 # ---------- CONFIG ----------
-PARQUET_PATH = "/Users/joaonolasco/Downloads/total_orders_2025.parquet"
+PARQUET_PATH = "total_orders_2025.parquet"
 COL_ITEM = "product_title"
 TOP_N = 200
 
